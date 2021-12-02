@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Fe316
+- 👀 I’m interested in learning programming
+- 🌱 I’m currently learning Python
